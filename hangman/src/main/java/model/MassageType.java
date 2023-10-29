@@ -1,0 +1,5 @@
+package model;
+
+public enum MassageType {
+	JOIN_MASSAGE,NEXT_TURN_MASSAGE,TEAM_STATUS_MASSAGE,CORRECT_GUESS_MASSAGE
+}
